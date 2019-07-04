@@ -1,0 +1,11 @@
+### Package Files ###
+*.jar
+
+### Intellij IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### Maven ###
+target/
